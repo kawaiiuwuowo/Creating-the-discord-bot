@@ -10,3 +10,4 @@ client.on("ready", () => {
   
   
   client.login("SUPER SECRET TOKEN! DONT SHARE WITH ANYONE")
+});
